@@ -5,4 +5,5 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maatpublio&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <hr>
+  
   ![Snake animation](https://github.com/MaaTPublio/MaaTPublio/blob/output/github-contribution-grid-snake.svg)
