@@ -1,19 +1,20 @@
 ## Mateus Publio 🛡️💻
+<br>
+Engenharia da Computação | Técnico em Redes de Computadores | Cibersegurança
+<br>
 
-Engenharia da Computação | Técnico de TI | Cibersegurança
-
-<div align="center"> <a href="https://github.com/maatpublio">GitHub</a> • <a href="https://www.linkedin.com/in/mateuspublio/">LinkedIn</a> </div>
-🔹 Skills
-
-Redes & Segurança: Nmap, Wireshark, VPNs, Firewalls
-
-Pentest & Forense: Metasploit, Logs, Scripts
-
-Programação: Python, Bash, PowerShell
-
-Cloud & Infra: AWS, Firebase, OpenStack, Containers
+___ 
 
 🔹 Contato
 
 📧 mateuspublio@gmail.com
-🌐 LinkedIn
+
+<a href="https://www.linkedin.com/in/mateuspublio/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+___
+🔹 Skills
+
+💻 Python | Bash 
+
+🌐 Redes | Firewalls | VPNs 
+
+🛡️ Pentest | Vulnerabilidades
