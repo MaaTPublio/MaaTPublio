@@ -2,7 +2,7 @@
   
 # Mateus Publio 🛡️💻
 
-### Engenharia da Computação | Técnico em Redes | Cibersegurança | SecOps
+### Engenheiro de Computação | Técnico em Redes | Cibersegurança | SecOps
 
 <a href="https://www.linkedin.com/in/mateuspublio/">
   <img src="https://github.com/user-attachments/assets/cffab238-38d8-45ec-a2b9-e022b33db85b" alt="Banner Mateus Publio" width="100%" />
