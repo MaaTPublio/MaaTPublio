@@ -1,71 +1,143 @@
 <div align="center">
-  
-# Mateus Publio 🛡️💻
-### Engenheiro de Computação | Técnico em Redes | Cibersegurança | SecOps
 
-<a href="https://www.linkedin.com/in/mateuspublio/">
-  <img src="https://github.com/user-attachments/assets/cffab238-38d8-45ec-a2b9-e022b33db85b" alt="Banner Mateus Publio" width="100%" />
-</a>
+<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/banner/github-banner.png" width="100%" alt="Mateus Publio Banner"/>
+
 <br>
+
+# Mateus Publio
+
+### Blue Team • SecOps • Bug Hunter
+
+**Computer Engineer • Computer Network Technician • Postgraduate in Cybersecurity**
+
+Sharing projects and documenting my learning journey through **PubSec**.
+
+<br>
+
+<a href="https://github.com/MaaTPublio">
+<img src="https://skillicons.dev/icons?i=github" height="30">
+</a>
+<a href="..."><img ...></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="..."><img ...></a>
+<a href="https://www.linkedin.com/in/mateuspublio/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30">
+</a>
+<a href="..."><img ...></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="..."><img ...></a>
+<a href="https://tryhackme.com/p/PubSec">
+<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/tryhackme.svg" height="30">
+</a>
+
 </div>
 
 ---
 
-## Projeto em Destaque
+## <img src="https://api.iconify.design/lucide:user-round.svg?color=white" width="18"> About
 
-### [Implementação de SOC Corporativo (Wazuh + Shuffle + pfSense)](https://github.com/MaaTPublio/implementacao-soc-corporativo)
+I'm a **Computer Engineer**, **Computer Network Technician**, and **Postgraduate Student in Cybersecurity**.
 
-> *Case de implementação real em ambiente de produção com pipeline SOAR de ponta a ponta.*
+I currently work in **IT Infrastructure**, supporting corporate environments involving **Windows Server**, **Linux**, **Networking**, and **Microsoft technologies**.
 
-Construção de uma arquitetura de segurança defensiva integrada, com detecção, orquestração e resposta automatizada a ameaças reais — sem intervenção humana.
+My focus is on **Blue Team**, **Security Operations**, and **Defensive Security**. Through **PubSec**, I document projects, labs, and studies while continuously improving my technical skills.
 
-- **SIEM:** Centralização de logs e correlação de eventos com Wazuh. Regras customizadas e integração com Sysmon para telemetria avançada de endpoints.
-- **SOAR:** Pipeline de automação com Shuffle — alertas críticos (nível 10+) disparam bloqueio automático do IP do atacante direto no pfSense via SSH.
-- **Firewall/IDS:** Segurança de borda com pfSense, Suricata (DPI na WAN) e pfBlockerNG (GeoIP blocking + DNSBL).
-- **Endpoint:** Telemetria avançada via Sysmon e resposta ativa a incidentes (Active Response).
+I also participate in **Bug Bounty** programs to broaden my understanding of offensive techniques and apply that knowledge to defensive security.
 
-[Ver Repositório Completo →](https://github.com/MaaTPublio/implementacao-soc-corporativo)
+---
+
+## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=white" width="18"> Featured Project
+
+### Corporate Security Operations Center
+
+End-to-end implementation of a Security Operations Center integrating SIEM, SOAR, endpoint telemetry, and automated incident response.
+
+**Technologies**
+
+- Wazuh SIEM
+- Shuffle SOAR
+- Sysmon
+- pfSense
+- Suricata IDS
+- pfBlockerNG
+- Active Response
+
+**Highlights**
+
+- Detection Engineering
+- Event Correlation
+- Endpoint Telemetry
+- Firewall Automation
+- Automated Incident Response
+- Threat Detection
+
+➡️ **Repository**
+
+https://github.com/MaaTPublio/implementacao-soc-corporativo
+
+---
+
+## Current Focus
+
+- Building a Security Operations Center (SOC)
+- Detection Engineering with Wazuh
+- SIEM & SOAR Automation
+- Infrastructure Security
+- Bug Bounty
+---
+
+## <img src="https://api.iconify.design/lucide:bug.svg?color=white" width="18"> Bug Bounty Profiles
+I participate in public Bug Bounty programs as part of my continuous learning and offensive security practice.
+<br>
+  <br>
+  <br>
+
+<div align="center">
+
+<a href="https://hackerone.com/PubSec">
+<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/hackerone.svg" height="42">
+</a>
+<a href="..."><img ...></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="..."><img ...></a>
+
+
+<a href="https://app.intigriti.com/profile/PubSec">
+<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/intigriti.svg" height="42">
+</a>
+<a href="..."><img ...></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="..."><img ...></a>
+
+
+<a href="https://yeswehack.com/hunters/PubSec">
+<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/yeswehack.svg" height="42">
+</a>
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=white" width="18"> Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,python,bash,powershell,git,github,vscode&perline=9"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase&perline=6"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## Tech Stack & Ferramentas
+<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/pubsec.svg" width="180">
 
-### Security & Monitoring
-![Wazuh](https://img.shields.io/badge/Wazuh-00B5E2?style=for-the-badge&logo=wazuh&logoColor=white)
-![Shuffle](https://img.shields.io/badge/Shuffle_SOAR-7B2FBE?style=for-the-badge&logo=buffer&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-2C3E50?style=for-the-badge&logo=pfsense&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-F46D01?style=for-the-badge&logo=suricata&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+### PubSec
 
-### Infra & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### Scripting & Automação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-<br>
-
----
-
-## Vamos Conectar?
-
-<p align="center">
-  <a href="mailto:mateuspublio@outlook.com.br">
-    <img src="https://img.shields.io/badge/Email-mateuspublio%40outlook.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mateuspublio/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mateus%20Publio-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<a href="https://tryhackme.com/p/PubSec">
-  <img src="https://img.shields.io/badge/TryHackMe-PubSec-C2185B?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
+*Build • Break • Defend*
 
 </div>
