@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/banner/github-banner.png" width="100%" alt="Mateus Publio Banner"/>
+<a href="https://www.linkedin.com/in/mateuspublio/"> <img src="https://github.com/user-attachments/assets/80d1709d-583b-4493-b0cf-c8959dc2f83e" alt="Banner Mateus Publio" width="100%" />
 
 <br>
 
