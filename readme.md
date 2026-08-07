@@ -4,7 +4,7 @@
 
 <br>
 
-# Mateus Publio
+# <img src="https://api.iconify.design/wpf:ghost.svg?color=white" width="18"> Mateus Publio
 
 ### Blue Team • SecOps • Bug Hunter
 
@@ -77,7 +77,7 @@ https://github.com/MaaTPublio/implementacao-soc-corporativo
 
 ---
 
-## Current Focus
+## <img src="https://api.iconify.design/lucide:target.svg?color=white" width="18"> Current Focus
 
 - Building a Security Operations Center (SOC)
 - Detection Engineering with Wazuh
