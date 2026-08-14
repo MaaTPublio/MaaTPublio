@@ -1,14 +1,13 @@
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mateuspublio/"> <img src="https://github.com/user-attachments/assets/80d1709d-583b-4493-b0cf-c8959dc2f83e" alt="Banner Mateus Publio" width="100%" />
-
+<a href="https://www.linkedin.com/in/mateuspublio/"> <img src="https://github.com/user-attachments/assets/270c69f1-7853-4bdb-ba83-cc520a365521" alt="Banner Mateus Publio" width="100%" />
 <br>
+</a>
+<div align=center>
 
 # <img src="https://api.iconify.design/wpf:ghost.svg?color=white" width="18"> Mateus Publio
 
-### Blue Team • SecOps • Bug Hunter
+### Blue Team • SOC • Cybersecurity
 
-**Computer Engineer • Computer Network Technician • Postgraduate in Cybersecurity**
+**Computer Engineer • Computer Network Technician • Postgrad in Cybersecurity**
 
 Sharing projects and documenting my learning journey through **PubSec**.
 
@@ -36,13 +35,14 @@ Sharing projects and documenting my learning journey through **PubSec**.
 
 ## <img src="https://api.iconify.design/lucide:user-round.svg?color=white" width="18"> About
 
-I'm a **Computer Engineer**, **Computer Network Technician**, and **Postgraduate Student in Cybersecurity**.
+I'm a **Computer Engineer** and **Network Technician** with **7+ years** of hands-on
+experience in **IT Infrastructure** — **Windows Server**, **Linux**, **Networking**,
+and enterprise systems.
 
-I currently work in **IT Infrastructure**, supporting corporate environments involving **Windows Server**, **Linux**, **Networking**, and **Microsoft technologies**.
-
-My focus is on **Blue Team**, **Security Operations**, and **Defensive Security**. Through **PubSec**, I document projects, labs, and studies while continuously improving my technical skills.
-
-I also participate in **Bug Bounty** programs to broaden my understanding of offensive techniques and apply that knowledge to defensive security.
+I'm currently deepening that background into **Cybersecurity**, pursuing a
+postgraduate degree in **Defensive Cyber Security (Blue Team Operations)** at
+**FIAP**. My focus is on **SOC**, **SIEM**, and **incident response** — I document
+my projects and studies here and through **PubSec**.
 
 ---
 
@@ -83,11 +83,11 @@ https://github.com/MaaTPublio/implementacao-soc-corporativo
 - Detection Engineering with Wazuh
 - SIEM & SOAR Automation
 - Infrastructure Security
-- Bug Bounty
 ---
 
 ## <img src="https://api.iconify.design/lucide:bug.svg?color=white" width="18"> Bug Bounty Profiles
-I participate in public Bug Bounty programs as part of my continuous learning and offensive security practice.
+Exploring offensive security through public bug bounty programs, applying that
+perspective back into my Blue Team work.
 <br>
   <br>
   <br>
@@ -113,7 +113,13 @@ I participate in public Bug Bounty programs as part of my continuous learning an
 <a href="https://yeswehack.com/hunters/PubSec">
 <img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/yeswehack.svg" height="42">
 </a>
+<a href="..."><img ...></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="..."><img ...></a>
 
+<a href="https://bugcrowd.com/h/pubsec">
+<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/bugcrowd.svg" height="42">
+</a>
 </div>
 
 ---
