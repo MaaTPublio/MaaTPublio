@@ -1,7 +1,8 @@
-<a href="https://www.linkedin.com/in/mateuspublio/"> <img src="https://github.com/user-attachments/assets/270c69f1-7853-4bdb-ba83-cc520a365521" alt="Banner Mateus Publio" width="100%" />
+<div align=center>
+<a href="https://www.linkedin.com/in/mateuspublio/"> <img src="https://github.com/user-attachments/assets/f3589ff6-6afa-4e9d-a524-f5e5626c8c1f" alt="Banner Mateus Publio" width="90%" />
 <br>
 </a>
-<div align=center>
+
 
 # <img src="https://api.iconify.design/wpf:ghost.svg?color=white" width="18"> Mateus Publio
 
@@ -21,12 +22,6 @@ Sharing projects and documenting my learning journey through **PubSec**.
 <a href="..."><img ...></a>
 <a href="https://www.linkedin.com/in/mateuspublio/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="30">
-</a>
-<a href="..."><img ...></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="..."><img ...></a>
-<a href="https://tryhackme.com/p/PubSec">
-<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/tryhackme.svg" height="30">
 </a>
 
 </div>
@@ -83,8 +78,9 @@ https://github.com/MaaTPublio/implementacao-soc-corporativo
 - Detection Engineering with Wazuh
 - SIEM & SOAR Automation
 - Infrastructure Security
----
 
+<!--
+---
 ## <img src="https://api.iconify.design/lucide:bug.svg?color=white" width="18"> Bug Bounty Profiles
 Exploring offensive security through public bug bounty programs, applying that
 perspective back into my Blue Team work.
@@ -121,7 +117,7 @@ perspective back into my Blue Team work.
 <img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/bugcrowd.svg" height="42">
 </a>
 </div>
-
+-->
 ---
 
 ## <img src="https://api.iconify.design/lucide:cpu.svg?color=white" width="18"> Tech Stack
