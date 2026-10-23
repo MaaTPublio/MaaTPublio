@@ -1,10 +1,10 @@
-<div align=center>
-<a href="https://www.linkedin.com/in/mateuspublio/"> <img src="https://github.com/user-attachments/assets/f3589ff6-6afa-4e9d-a524-f5e5626c8c1f" alt="Banner Mateus Publio" width="90%" />
-<br>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mateuspublio/">
+<img src="https://github.com/user-attachments/assets/f3589ff6-6afa-4e9d-a524-f5e5626c8c1f" alt="Banner Mateus Publio" width="90%" />
 </a>
 
-
-# <img src="https://api.iconify.design/wpf:ghost.svg?color=white" width="18"> Mateus Publio
+# <img src="https://api.iconify.design/wpf/ghost.svg?color=white" width="28" valign="middle"> Mateus Publio
 
 ### Blue Team • SOC • Cybersecurity
 
@@ -17,9 +17,7 @@ Sharing projects and documenting my learning journey through **PubSec**.
 <a href="https://github.com/MaaTPublio">
 <img src="https://skillicons.dev/icons?i=github" height="30">
 </a>
-<a href="..."><img ...></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="..."><img ...></a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mateuspublio/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="30">
 </a>
@@ -28,7 +26,7 @@ Sharing projects and documenting my learning journey through **PubSec**.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:user-round.svg?color=white" width="18"> About
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=white" width="20" valign="middle"> About
 
 I'm a **Computer Engineer** and **Network Technician** with **7+ years** of hands-on
 experience in **IT Infrastructure** — **Windows Server**, **Linux**, **Networking**,
@@ -41,7 +39,7 @@ my projects and studies here and through **PubSec**.
 
 ---
 
-## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=white" width="18"> Featured Project
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=white" width="20" valign="middle"> Featured Project
 
 ### Corporate Security Operations Center
 
@@ -72,55 +70,16 @@ https://github.com/MaaTPublio/implementacao-soc-corporativo
 
 ---
 
-## <img src="https://api.iconify.design/lucide:target.svg?color=white" width="18"> Current Focus
+## <img src="https://api.iconify.design/lucide/target.svg?color=white" width="20" valign="middle"> Current Focus
 
 - Building a Security Operations Center (SOC)
 - Detection Engineering with Wazuh
 - SIEM & SOAR Automation
 - Infrastructure Security
 
-<!--
----
-## <img src="https://api.iconify.design/lucide:bug.svg?color=white" width="18"> Bug Bounty Profiles
-Exploring offensive security through public bug bounty programs, applying that
-perspective back into my Blue Team work.
-<br>
-  <br>
-  <br>
-
-<div align="center">
-
-<a href="https://hackerone.com/PubSec">
-<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/hackerone.svg" height="42">
-</a>
-<a href="..."><img ...></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="..."><img ...></a>
-
-
-<a href="https://app.intigriti.com/profile/PubSec">
-<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/intigriti.svg" height="42">
-</a>
-<a href="..."><img ...></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="..."><img ...></a>
-
-
-<a href="https://yeswehack.com/hunters/PubSec">
-<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/yeswehack.svg" height="42">
-</a>
-<a href="..."><img ...></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="..."><img ...></a>
-
-<a href="https://bugcrowd.com/h/pubsec">
-<img src="https://raw.githubusercontent.com/MaaTPublio/MaaTPublio/main/assets/icons/bugcrowd.svg" height="42">
-</a>
-</div>
--->
 ---
 
-## <img src="https://api.iconify.design/lucide:cpu.svg?color=white" width="18"> Tech Stack
+## <img src="https://api.iconify.design/lucide/cpu.svg?color=white" width="20" valign="middle"> Tech Stack
 
 <div align="center">
 
